@@ -1,8 +1,18 @@
 body {
-	background-color: #D2E2E1;
+	background-color: #B5DEF1;
 	font-family: arial;
 }
 h2 {
 	border-bottom: solid;
-	background-color: #D5DCE6;
 	}
+.img-circle {
+	border-radius: 100%;
+	height: 350px;
+	width: 350px;
+	}
+.img-cirlce {
+	border-radius: 100%;
+	height: 350px;
+	width: 350px;
+	rotation: 180deg;
+}
