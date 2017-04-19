@@ -1,7 +1,17 @@
 body {
-	background-color: #7C7F85;
-	font-family: arial;
+	background-color:#E5E1B6;
+	font-family: sans-serif;
 }
 h2 {
 	border-bottom: solid;
+	color:#827E73
 	}
+h1 {
+	color:#827E73;
+}
+p {
+	color:#1B5B95
+}
+h3 {
+	color:#A5E7B9;
+}
