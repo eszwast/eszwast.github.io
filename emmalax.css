@@ -1,4 +1,21 @@
-
+body {
+	background-color:#E5E1B6;
+	font-family: sans-serif;
+}
+h2 {
+	border-bottom: solid;
+	color:#827E73
+	}
 h1 {
-	color:;
+	color:#827E73;
+}
+p {
+	color:#1B5B95
+}
+
+h4 {
+	color:#1B5B95;
+}
+table {
+	color:#1B5B95;
 }
