@@ -18,4 +18,9 @@ h4 {
 }
 table {
 	color:#1B5B95;
+	float:left;
+}
+
+.pacepic{
+	float:right;
 }
