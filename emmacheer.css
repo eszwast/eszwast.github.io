@@ -1,23 +1,23 @@
 body {
-	background-color:#FAF84C;
+	background-color:#FFCA33;
 	font-family: sans-serif;
 }
 h2 {
 	border-bottom: solid;
-	color:#827E73
+	color:#1B5B95
 	}
 h1 {
-	color:#827E73;
+	color:#1B5B95;
 }
 p {
 	color:#1B5B95
 }
 
 h4 {
-	color:#1B5B95;
+	color:#FFCA33
 }
 ul {
-	color:#1B5B95;
+	color:#E48CD4;
 	float:left;
 }
 .pacepic{
