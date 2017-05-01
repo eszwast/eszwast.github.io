@@ -1,3 +1,9 @@
-.titlepic{
-	float:center;
+.titlepic {
+	display: block;
+	margin:auto;
+	width :50%;
+}
+body {
+	font-family: sans-serif;
+	background-color: #E48CD4;
 }
